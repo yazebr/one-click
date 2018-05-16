@@ -5,9 +5,9 @@
         </header>
         <div class="box">
             <form method="post" action="/success" name="contact" netlify>
-                <input type="text" name="name" placeholder="Nome" />
-                <input type="email" name="email" placeholder="Email" />
-                <textarea name="message" placeholder="Mensagem" rows="5" cols="30"></textarea>
+                <input type="text" name="name" placeholder="Nome" required/>
+                <input type="email" name="email" placeholder="Email" required/>
+                <textarea name="message" placeholder="Mensagem" rows="5" cols="30" required></textarea>
                 <input class="send" type="submit" value="Enviar" />
             </form>
         </div>

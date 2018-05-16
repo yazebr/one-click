@@ -359,3 +359,6 @@ h3{
   transform: none;
   visibility: visible;
 }
+#disqus_thread{
+  margin-top: 15px;
+}

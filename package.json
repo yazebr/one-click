@@ -46,7 +46,8 @@
     "uncss": "^0.14.1",
     "url-loader": "^0.5.7",
     "webpack": "^3.0.0",
-    "whatwg-fetch": "^1.0.0"
+    "whatwg-fetch": "^1.0.0",
+    "yarn": "^1.6.0"
   },
   "devDependencies": {
     "gulp-inject": "^4.2.0",

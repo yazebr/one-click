@@ -41,7 +41,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block;
 }
 body{
-  line-height: 1;
+  line-height: 1.2;
   letter-spacing: 1px;
   font-family: "Courier New", Courier, "Lucida Sans Typewriter", monospace;
   background-color: #f4f7f8;

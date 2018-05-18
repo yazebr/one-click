@@ -151,8 +151,10 @@ small{
   letter-spacing: 1px;
   min-height: 44px;
   margin-bottom: 20px;
-  border: 1px solid #e9ebeb;
-  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2);
+  /*border: 1px solid #e9ebeb;*/
+  border: none;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+  /*box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2);*/
   font-size: 15px;
   line-height: 25px;
 }
@@ -186,8 +188,10 @@ input{
   background-color: white;
   padding: 15px;
   display: inline-block;
-  border: 1px solid #e9ebeb;
-  box-shadow: 0 1px 1px 0 rgba(10, 16, 34, 0.2);
+  /*border: 1px solid #e9ebeb;*/
+  /*box-shadow: 0 1px 1px 0 rgba(10, 16, 34, 0.2);*/
+  border: none;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
   -webkit-transition: box-shadow 200ms ease;
   transition: box-shadow 200ms ease;
 }

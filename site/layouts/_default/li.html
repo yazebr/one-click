@@ -1,6 +1,12 @@
-	<h2 class="title-post">{{ .Title }}</h2>
-	<p class="date-post">{{ .Date.Format "2 Jan 2006" }}</p>
+<article>
+	<header>
+		<h2 class="title-post">{{ .Title }}</h2>
+		<p class="date-post">{{ .Date.Format "2 Jan 2006" }}</p>
+	</header>
 	<p class="description-post">{{ .Description }}</p>
-	<a href="{{ .Permalink }}" class="link-post">
-		<p class="plus-post">Continue lendo ...</p>
-	</a>
+	<footer>
+		<a href="{{ .Permalink }}" class="link-post">
+			<p class="plus-post">Continue lendo ...</p>
+		</a>
+	</footer>
+</article>

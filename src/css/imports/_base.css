@@ -338,17 +338,18 @@ h3{
 #menu
 {
   position: absolute;
-  width: 300px;
-  margin-right: 10px;
-  padding: 50px;
+  /* width: 300px; */
+  margin-right: 50px;
+  /* padding: 50px; */
   visibility: hidden;
   right: 0;
-  background: #fff;
+  top: -10px;
+  /* background: #fff; */
   list-style-type: none;
   -webkit-font-smoothing: antialiased;
   text-align: right;
   transform-origin: 0% 0%;
-  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2);
+  /* box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2); */
   transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
 }
 #menu a:hover{
@@ -363,6 +364,7 @@ h3{
 {
   transform: none;
   visibility: visible;
+  display: flex;
 }
 #disqus_thread{
   margin-top: 15px;

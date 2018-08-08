@@ -43,7 +43,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 body{
   line-height: 1.2;
   letter-spacing: 1px;
-  font-family: "Courier New", Courier, "Lucida Sans Typewriter", monospace;
+  font-family: "Nunito Sans", Courier New, "Lucida Sans Typewriter", monospace;
   background-color: #f4f7f8;
   max-width: 760px;
   margin: 0 auto;

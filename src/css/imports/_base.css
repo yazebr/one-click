@@ -238,6 +238,9 @@ h1.bg-primary {
 .copy{
   margin-top: 20px;
   text-align: center;
+}
+
+.copy p {
   font-weight: 500;
 }
 .social{

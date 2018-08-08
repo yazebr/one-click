@@ -177,7 +177,7 @@ input{
 }
 .box .send{
   border: none;
-  border-radius: 1.5px
+  border-radius: 1px;
   background: #252525;
   color: white;
   font-size: 16px;

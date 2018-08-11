@@ -389,7 +389,7 @@ h3{
 #disqus_thread{
   margin-top: 15px;
 }
-main{
+.main{
    height: 100%;
   min-height: 100%;
   display: -webkit-flex;
@@ -399,7 +399,7 @@ main{
   -webkit-justify-content: center;
   justify-content: center;
 }
-footer{
+.footer{
   position: fixed;
   bottom: 0;
   display: -webkit-flex;

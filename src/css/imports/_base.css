@@ -400,10 +400,6 @@ h3{
   justify-content: center;
 }
 .footer{
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  left: 0;
   display: -webkit-flex;
   display: flex;
   -webkit-justify-content: center;

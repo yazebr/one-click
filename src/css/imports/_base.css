@@ -138,7 +138,7 @@ small{
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 2px;
-  color: #252525;
+  /*color: #252525;*/
 }
 .columns h1, h2{
   margin: 10px 0;
@@ -239,7 +239,7 @@ h1.bg-primary {
   letter-spacing: 2px;
 }
 .title-post{
-  color: #252525;
+  /*color: #252525;*/
   text-transform: uppercase;
 }
 .date-post{
@@ -247,7 +247,7 @@ h1.bg-primary {
 }
 .plus-post{
   padding: 15px 0 5px;
-  color: #252525;
+  /*color: #252525;*/
 }
 .copy{
   /*margin-top: 20px;*/
@@ -257,6 +257,7 @@ h1.bg-primary {
 .copy p {
   font-weight: 600;
   font-size: 14px;
+  letter-spacing: .3px;
 }
 .social{
   -webkit-align-items: center;
@@ -381,7 +382,7 @@ h3{
 {
   padding: 10px 5px;
   font-size: 22px;
-  color: #252525;
+  /*color: #252525;*/
 }
 #menuToggle input:checked ~ ul
 {

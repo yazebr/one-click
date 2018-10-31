@@ -91,6 +91,12 @@ a{
 a:hover{
   text-decoration: none;
 }
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
 small{
   font-weight: 400;
   color: #252525;

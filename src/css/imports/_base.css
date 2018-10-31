@@ -50,7 +50,7 @@ html{
 body{
   line-height: 1.2;
   letter-spacing: 1px;
-  font-family: "Nunito Sans", Courier New, "Lucida Sans Typewriter", monospace;
+  font-family: "Zilla Slab", Courier New, "Lucida Sans Typewriter", monospace;
   background-color: rgba(37,37,37,.03);
   max-width: 760px;
   margin: 0 auto;
